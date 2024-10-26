@@ -1,3 +1,4 @@
+git config advice.addIgnoredFile false
 # built application files
 *.apk
 *.ap_
@@ -36,5 +37,4 @@ proguard-project.txt
 .idea
 # Project exclude paths
 /.github/
-/app/
 /gradle/
